@@ -352,7 +352,7 @@ arXiv 2022. [[Paper](https://arxiv.org/abs/2209.00796)] \
 ### Generation
 
 **MOVA: Towards Scalable and Synchronized Video-Audio Generation** \
-*Zhijie Lin, Zhuoyi Yang, Wendi Zheng, Shiyu Huang, Wenyi Hong, Weihan Wang, Yuxiao Dong, Jie Tang* \
+*SII-OpenMOSS Team* \
 arXiv 2026. [[Paper](https://arxiv.org/abs/2602.08794)] [[Github](https://github.com/OpenMOSS/MOVA)] [[Project](https://mosi.cn/models/mova)] \
 14 Feb 2026
 
